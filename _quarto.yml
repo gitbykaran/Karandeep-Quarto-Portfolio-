@@ -1,0 +1,29 @@
+project:
+  type: website
+
+website:
+  title: "Portfolio"
+  favicon: "images/film.png"
+  page-footer: 
+    center: |
+      Karandeep@2025 
+  navbar:
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Projects"
+        href: projects.qmd
+    right:
+      - icon: github
+        href: https://github.com/gitbykaran
+      - icon: linkedin
+        href: https://www.linkedin.com/in/karandeepsingh3451/
+format:
+  html:
+    theme:
+      - lux
+    css: styles.css
+    highlight-style: github
+
+
+

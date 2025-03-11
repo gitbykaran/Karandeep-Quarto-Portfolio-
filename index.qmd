@@ -1,0 +1,25 @@
+---
+title: "Karandeep Singh"
+image: images/profilepic.png
+about: 
+  template: jolla
+  image-width: 20em
+  image-shape: round
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/karandeepsingh3451/
+    - icon: github
+      text: Github
+      href: https://github.com/gitbykaran
+    - icon: file-earmark-arrow-down-fill
+      text: Resume
+      href: https://drive.google.com/file/d/1165LtRWkqbquRgD-4Sm2Z6WqkoEdVFnp/view?usp=sharing  
+    - icon: arrows-fullscreen
+      text: Projects
+      href: projects.qmd   
+---
+
+
+I turn raw data into powerful insights that drive business growth. With expertise in SQL, Python, Power BI, and Tableau, I uncover trends, optimize strategies, and make data work for decision-making. Let’s transform numbers into actionable intelligence! 🚀📊
+

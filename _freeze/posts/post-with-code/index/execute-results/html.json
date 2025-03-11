@@ -1,0 +1,12 @@
+{
+  "hash": "52e7c64053ed39fddd2a3c00cb69ba26",
+  "result": {
+    "engine": "jupyter",
+    "markdown": "---\ntitle: \"Indian Bikes Market Analysis\"\nauthor: \"Karandeep Singh\"\ndescription: \"\"\ndate: \"2025-03-06\"\ncategories: [SQL, Python]\nimage: \"bikes.png\"\n---\n\n::: {#7d60bd5f .cell execution_count=1}\n``` {.python .cell-code}\nimport pandas as pd\nprint(1+1)\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n2\n```\n:::\n:::\n\n\nR is a collaborative project with many contributors.\nType 'contributors()' for more information and\n'citation()' on how to cite R or R packages in publications.\n\n",
+    "supporting": [
+      "index_files"
+    ],
+    "filters": [],
+    "includes": {}
+  }
+}
