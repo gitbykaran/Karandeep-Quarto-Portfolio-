@@ -14,7 +14,7 @@ about:
       href: https://github.com/gitbykaran
     - icon: file-earmark-arrow-down-fill
       text: Resume
-      href: https://drive.google.com/file/d/1165LtRWkqbquRgD-4Sm2Z6WqkoEdVFnp/view?usp=sharing  
+      href: https://drive.google.com/file/d/1vDmVwAnbBzdVzawFc6OwYxP7m10k2tbR/view?usp=sharing  
     - icon: arrows-fullscreen
       text: Projects
       href: projects.qmd   
